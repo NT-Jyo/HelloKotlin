@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tts_active">Introduzca un texto, por favor!</string>
+    <string name="tts_validate_active">No esta disponible!</string>
+    <string name="hint_message">Escribe algo</string>
+</resources>
